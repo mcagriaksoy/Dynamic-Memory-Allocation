@@ -1,5 +1,4 @@
-//Mehmet Cagri Aksoy 12105037560
-
+//Mehmet Cagri Aksoy 
 #include <stdio.h>
 #include <stdlib.h> //i defined necessary libraries
 
@@ -105,4 +104,4 @@ void del(float *b, int start, int end, int len2) {
 	}
 	
 }
-//Mehmet Cagri Aksoy 12105037560
+//Mehmet Cagri Aksoy 
